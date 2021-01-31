@@ -1,0 +1,18 @@
+__________Sipariş Takip Sistemi v.1.0___________
+____Hüseyi ESKAN (huseyineskan01@gmail.com)____
+________________www.heskan.com_________________
+
+
+Sistem yönetici olarak admin kullanıcısı atanmıştır.
+
+Kullanıcı adı : admin
+Şifre : 1234
+
+------------------------------------------------
+
+Klasörün içinde bulunan siparistakip_db içindeki sql dosyasını gerekli yere atınız.
+
+connect.php içine database ayarlarınızı giriniz.
+
+index.php içinde SITE sabitinin yolunu site yolunuz olarak değiştiriniz.
+define('SITE','http://siteniz.com/siparistakip/');
