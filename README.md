@@ -6,7 +6,7 @@ Bu uygulama çeşitli üretim ve satış ofisi arasındaki koordineyi sağlamaya
 
 DETAYLI ANLATIM VE TANITIM VİDEOSU İÇİN : https://www.heskan.com/siparis-takip-sistemi/ linkini ziyaret edebilirsiniz.
 
-# Özellikler
+# Özellikleri
 PANEL :
 -Toplam Sipariş Sayısını -İşlemde Olan Sipariş Sayısını -Bekleyen Sipariş Sayısını -Tamamlanan Sipariş Sayısını göstermektedir.
 
@@ -20,3 +20,6 @@ Sisteme kayıtlı siparişlere ve bilgilerine ulaşabilirsiniz.
 
 Kullanıcı Ayarları :
 Sistemde tek bir kullanıcı mevcut. Dilerseniz bu alandan kullanıcı bilgilerini güncelleyebilirsiniz.
+
+# NOT
+Eksik veya geliştirilmesi gereken kısımları illaki olacaktır.
